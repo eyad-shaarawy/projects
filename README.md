@@ -3,6 +3,7 @@
 A robust desktop application designed to manage industrial production lines, machinery, and personnel assignments. This system acts as a digital supervisor, ensuring that production protocols and safety requirements are met through automated validation logic.
 
 Core Concept
+
 The system bridges the gap between workforce management and machinery operations. It enforces a strict operational hierarchy, meaning no machine can run and no production can be logged unless the required staff (Workers, Engineers, and Managers) are properly assigned and active.
 
 Key Features
